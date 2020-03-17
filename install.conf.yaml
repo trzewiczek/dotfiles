@@ -1,10 +1,15 @@
 - clean: ['~']
 
 - link:
+    ~/.gitignore: gitignore
     ~/.profile: profile
-    ~/.zshrc: zshrc
-    ~/.Xresources: Xresources
+    ~/.tmux.conf: tmux
     ~/.xinitrc: xinitrc
+    ~/.Xresources: Xresources
+    ~/.zshrc: zshrc
+    ~/.vim:
+        path: vim/
+        create: true
     ~/.i3:
         path: i3/
         create: true
