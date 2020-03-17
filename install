@@ -4,7 +4,8 @@ set -e
 
 CONFIG="install.conf.yaml"
 DOTBOT_DIR="dotbot"
-VUNDLE_DIR="dotbot"
+VUNDLE_DIR="vim/bundle/Vundle.vim"
+TPM_DIR="tmux/plugins/tpm"
 
 DOTBOT_BIN="bin/dotbot"
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -19,3 +20,7 @@ git -C "${VUNDLE_DIR}" submodule sync --quiet --recursive
 git submodule update --init --recursive "${VUNDLE_DIR}"
 
 vim +PluginInstall +qall
+
+git -C "${TPM_DIR}" submodule sync --quiet --recursive
+git submodule update --init --recursive "${TPM_DIR}"
+
