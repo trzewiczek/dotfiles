@@ -94,9 +94,7 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc"
 
 alias tree="tree -I node_modules"
 alias s="jq '.scripts' package.json"
@@ -104,3 +102,6 @@ alias s="jq '.scripts' package.json"
 alias big_screen="xrandr --output HDMI1 --preferred --output eDP1 --off"
 alias small_screen="xrandr --output eDP1 --preferred --output HDMI1 --off"
 alias both_screens="xrandr --output HDMI1 --preferred --above eDP1 --output eDP1 --preferred"
+
+alias pvpn='sudo protonvpn'
+
