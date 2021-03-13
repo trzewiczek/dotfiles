@@ -8,6 +8,8 @@ call vundle#begin()
 " let Vundle manage Vundle
 Plugin 'gmarik/Vundle.vim'
 
+Plugin 'wilsaj/chuck.vim'
+
 Plugin 'tomtom/tcomment_vim'
 Plugin 'altercation/vim-colors-solarized'
 
@@ -18,16 +20,17 @@ filetype plugin indent on
 " colorscheme for gui and terminal
 if has("gui_running")
   set background=light
-  colorscheme solarized
+  colorscheme white-sand
 
   set guioptions -=m     " remove menubar
   set guioptions -=T     " remove toolbar
 else
   set background=dark
-  colorscheme desert
+  colorscheme white-sand
 endif
 syntax enable
 
+set noswapfile
 set encoding=utf-8
 
 " tabs and spaces

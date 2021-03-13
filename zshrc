@@ -68,7 +68,7 @@ ZSH_THEME="avit"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git zsh-nvm)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -106,7 +106,7 @@ alias both_screens="xrandr --output HDMI1 --preferred --above eDP1 --output eDP1
 alias pvpn='sudo protonvpn'
 
 # Node Version Manager
-source /usr/share/nvm/init-nvm.sh
+# source /usr/share/nvm/init-nvm.sh
 autoload -U add-zsh-hook
 load-nvmrc() {
   local node_version="$(nvm version)"

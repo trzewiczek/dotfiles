@@ -2,18 +2,9 @@
 
 - link:
     ~/.gitignore: gitignore
-    ~/.profile: profile
     ~/.tmux.conf: tmux.conf
-    ~/.xinitrc: xinitrc
-    ~/.Xresources: Xresources
     ~/.zshrc: zshrc
 
-    ~/.i3:
-        path: i3/
-        create: true
-    ~/.tmux:
-        path: tmux/
-        create: true
     ~/.vim:
         path: vim/
         create: true
