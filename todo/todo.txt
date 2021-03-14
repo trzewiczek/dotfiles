@@ -1,0 +1,181 @@
+(B) Setup zshrc +dotfiles @machine
+(A) Git config +dotfiles @machine
+(B) Drive cleanup +data @digital-life
+Autodesk +GDPR @digital-life
+
+Basecamp +GDPR @digital-life
+Biblioteka Publiczna +GDPR @digital-life
+Bitbucket +GDPR @digital-life
+Bitwarden +GDPR @digital-life
+Blogger +GDPR @digital-life
+Booking +GDPR @digital-life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abebooks +GDPR @digital-life
+Adobe +GDPR @digital-life
+Amazon +GDPR @digital-life
+Atlassian +GDPR @digital-life
+Apple +GDPR @digital-life
+(B) Migrate from Google Photos +data @digital-life
+(A) UXPin +GDPR @digital-life
+(A) Księgarnia Boni Libri +GDPR @digital-life
+(B) Proton inbox cleanup +data @digital-life
+(B) Karta Melonana w NFM @read-life
+(B) Migrate to vim:plug @machine
+Add todo.txt-cli isntallation to dotfiles +dotfiles @machine
