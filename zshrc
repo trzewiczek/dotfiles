@@ -5,7 +5,7 @@ ZSH_THEME="avit"
 plugins=(git zsh-nvm)
 
 source $ZSH/oh-my-zsh.sh
-source ./aliases
+source $HOME/.dotfiles/zsh/aliases
 
 # Node Version Manager
 # source /usr/share/nvm/init-nvm.sh

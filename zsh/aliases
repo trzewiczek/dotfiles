@@ -1,3 +1,6 @@
+alias df="df -h"
+alias du="du -h -d 2"
+
 alias tree="tree -I node_modules"
 alias s="jq '.scripts' package.json"
 
