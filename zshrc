@@ -7,6 +7,20 @@ plugins=(git zsh-nvm)
 source $ZSH/oh-my-zsh.sh
 source $HOME/.dotfiles/zsh/aliases
 
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+  source /etc/profile.d/vte.sh
+fi
+
+p() {
+  VPN_CC=("DE" "CZ" "LT" "SK" "AT" "PL" "DK")
+
+  size=${#VPN_CC[@]}
+  index=$(($RANDOM % $size))
+
+  echo "Connecting to ${VPN_CC[$index]}"
+  protonvpn-cli c --cc ${VPN_CC[$index]}
+}
+
 # Node Version Manager
 # source /usr/share/nvm/init-nvm.sh
 autoload -U add-zsh-hook

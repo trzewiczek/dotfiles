@@ -176,6 +176,34 @@ Apple +GDPR @digital-life
 (A) UXPin +GDPR @digital-life
 (A) Księgarnia Boni Libri +GDPR @digital-life
 (B) Proton inbox cleanup +data @digital-life
-(B) Karta Melonana w NFM @read-life
+
 (B) Migrate to vim:plug @machine
 Add todo.txt-cli isntallation to dotfiles +dotfiles @machine
+(A) Rozliczenie PIT +firma @real-life
+yarn vs npm +omnio @config-ui
+Contract +omnio
+Add specific versions on node/npm to Dockerfile +omnio @config-ui
+Why additionally installing tailwindcss in Dockerfile +omnio @config-ui
+Install warnings cleanup +omnio @config-ui
+npm audit +omnio @config-ui
+Packages update +omnio @config-ui
+IE11 support +omnio @config-ui
+Webpack upgrade to 5 +omnio @config-ui
+Clean 120 TSC errors +omnio @config-ui
+Migrate all files to TS + omnio @config-ui
+ESLint has react and typescript plugins disabled +omnio @config-ui
+Storybook missing components +omnio @config-ui
+Get rid of babel config +omnio @config-ui
+Add Husky +omnio @config-ui
+Add Cypress +omnio @config-ui
+yarn audit post-install and pre-commit hook
+Add concurently for cypress and dev +omnio @config-ui
+Mock API with lowdb +omnio @config-ui
+Login error message is a bad practice +omnio @config-ui
+CS + KREME, 'Pussywhistle Tea' +NTS
+Jaques Dutronc, 'Hippie hippie hourrah' +NTS
++NTS Franco Battiato, 'No Time No Space'
++NTS Musci-Venosta, 'Lullabies...Mother Sings...Father Plays...'
++NTS Frida, 'I See Red'
++NTS Jim Rafferty, 'I see red'
++NTS Paul Hillier and Estonian Philharmonic Chamber Choir, 'On Leaving (1999)'

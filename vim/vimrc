@@ -20,13 +20,13 @@ filetype plugin indent on
 " colorscheme for gui and terminal
 if has("gui_running")
   set background=light
-  colorscheme white-sand
+  colorscheme solarized
 
   set guioptions -=m     " remove menubar
   set guioptions -=T     " remove toolbar
 else
-  set background=dark
-  colorscheme white-sand
+  set background=light
+  colorscheme solarized
 endif
 syntax enable
 
