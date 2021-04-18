@@ -8,6 +8,7 @@
 - clean: ['~']
 
 - link:
+    ~/.taskrc: taskrc
     ~/.gitignore: gitignore
     ~/.tmux.conf: tmux.conf
     ~/.zshrc: zshrc
