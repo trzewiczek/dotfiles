@@ -16,3 +16,42 @@
 {"description":"Proton inbox cleanup","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"data","status":"pending","uuid":"66218284-03aa-4679-8082-34298837578a"}
 {"description":"Rozliczenie PIT","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"firma","status":"pending","uuid":"2a79084d-9c9a-4479-b74f-55bcf4cdf054"}
 {"description":"Migrate to vim:plug","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"machine","status":"pending","uuid":"e35c2862-b160-4667-a198-abf6710db797"}
+{"description":"Rozliczenie PIT","due":"20210419T220000Z","entry":"20210418T153827Z","modified":"20210418T160223Z","project":"firma","status":"pending","uuid":"2a79084d-9c9a-4479-b74f-55bcf4cdf054"}
+{"description":"Rozliczenie PIT","due":"20210419T220000Z","entry":"20210418T153827Z","modified":"20210418T160515Z","project":"firma","status":"pending","tags":["firma"],"uuid":"2a79084d-9c9a-4479-b74f-55bcf4cdf054"}
+{"description":"Rozliczenie PIT","due":"20210419T220000Z","entry":"20210418T153827Z","modified":"20210418T160538Z","status":"pending","tags":["firma"],"uuid":"2a79084d-9c9a-4479-b74f-55bcf4cdf054"}
+{"description":"CS + KREME, Pussywhistle Tea","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"ce81a9b4-5086-4368-bc1b-71fe308d9812"}
+{"description":"Franco Battiato, No Time No Space","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"a46d0dac-3e2a-490c-a209-4ee42cdc1bc9"}
+{"description":"Frida, I See Red","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"aec22f74-d1a7-4a46-ab91-ec1ab9f8c3b2"}
+{"description":"Jaques Dutronc, Hippie hippie hourrah","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"1aee7b5a-8d62-45fb-8cad-db50e1995192"}
+{"description":"Jim Rafferty, I see red","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"00f1dc5a-6bf3-4b61-a3f6-66d2c06839c0"}
+{"description":"Musci-Venosta, Lullabies...Mother Sings...Father Plays...","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"1d9c5a3f-5e8e-41dd-b675-59954f62db5a"}
+{"description":"Paul Hillier and Estonian Philharmonic Chamber Choir, On Leaving (1999)","entry":"20210418T153827Z","modified":"20210418T160558Z","project":"NTS","status":"pending","tags":["NTS"],"uuid":"7af9442c-4be1-4d59-9c79-fe286a517247"}
+{"description":"CS + KREME, Pussywhistle Tea","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"ce81a9b4-5086-4368-bc1b-71fe308d9812"}
+{"description":"Franco Battiato, No Time No Space","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"a46d0dac-3e2a-490c-a209-4ee42cdc1bc9"}
+{"description":"Frida, I See Red","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"aec22f74-d1a7-4a46-ab91-ec1ab9f8c3b2"}
+{"description":"Jaques Dutronc, Hippie hippie hourrah","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"1aee7b5a-8d62-45fb-8cad-db50e1995192"}
+{"description":"Jim Rafferty, I see red","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"00f1dc5a-6bf3-4b61-a3f6-66d2c06839c0"}
+{"description":"Musci-Venosta, Lullabies...Mother Sings...Father Plays...","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"1d9c5a3f-5e8e-41dd-b675-59954f62db5a"}
+{"description":"Paul Hillier and Estonian Philharmonic Chamber Choir, On Leaving (1999)","entry":"20210418T153827Z","modified":"20210418T160622Z","status":"pending","tags":["NTS"],"uuid":"7af9442c-4be1-4d59-9c79-fe286a517247"}
+{"description":"Abebooks","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"e7f0ab07-e1c1-48a9-84ce-f30fcec3664f"}
+{"description":"Adobe","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"8e0c0a18-43c4-48b8-a429-98cd4c548607"}
+{"description":"Amazon","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"bcbc5eae-b949-42c2-8b78-582444078c50"}
+{"description":"Apple","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"73a24ef5-6887-477b-9f4e-9f55ba25c05a"}
+{"description":"Atlassian","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"93598dd4-b483-45fb-abeb-bc0f847fcd55"}
+{"description":"Księgarnia Boni Libri","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"617287e6-c670-4819-b6a0-9ba5f4fe03c2"}
+{"description":"UXPin","entry":"20210418T153827Z","modified":"20210418T161141Z","status":"pending","tags":["GDPR"],"uuid":"4bf67c7e-3182-4195-9572-9f47896155c2"}
+{"description":"Migrate from Google Photos","entry":"20210418T153827Z","modified":"20210418T161155Z","status":"pending","tags":["data"],"uuid":"7caac6a7-aa6c-414f-9c6c-ced45cd97b3a"}
+{"description":"Proton inbox cleanup","entry":"20210418T153827Z","modified":"20210418T161155Z","status":"pending","tags":["data"],"uuid":"66218284-03aa-4679-8082-34298837578a"}
+{"description":"Migrate to vim:plug","entry":"20210418T153827Z","modified":"20210418T161208Z","status":"pending","tags":["machine"],"uuid":"e35c2862-b160-4667-a198-abf6710db797"}
+{"description":"UXPin","entry":"20210418T153827Z","modified":"20210418T161225Z","start":"20210418T161225Z","status":"pending","tags":["GDPR"],"uuid":"4bf67c7e-3182-4195-9572-9f47896155c2"}
+{"description":"Księgarnia Boni Libri","entry":"20210418T153827Z","modified":"20210418T161239Z","start":"20210418T161239Z","status":"pending","tags":["GDPR"],"uuid":"617287e6-c670-4819-b6a0-9ba5f4fe03c2"}
+{"description":"+507 Konto firmowe","entry":"20210418T161300Z","modified":"20210418T161300Z","status":"pending","uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"+507 Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161339Z","status":"pending","uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Charlie Haden, For Turiya","entry":"20210418T161656Z","modified":"20210418T161656Z","status":"pending","tags":["NTS"],"uuid":"ed161b41-2992-4519-a95c-0916ea1e1418"}
+{"description":"Zapłacić za prawo jazdy","due":"20210418T220000Z","entry":"20210418T161756Z","modified":"20210418T161756Z","status":"pending","tags":["life"],"uuid":"a2731871-4977-409e-bc3a-62d819c5da0f"}
+{"description":"+507 Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161842Z","status":"pending","tags":["studio"],"uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161851Z","status":"pending","tags":["studio"],"uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161912Z","status":"pending","uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161923Z","status":"pending","tags":["s507"],"uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T161931Z","status":"pending","tags":["507"],"uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
+{"description":"Konto firmowe","due":"20210419T220000Z","entry":"20210418T161300Z","modified":"20210418T162001Z","status":"pending","tags":["firma"],"uuid":"15183128-dc7d-4d7c-92cb-fa6517ff3fbf"}
