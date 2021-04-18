@@ -1,0 +1,18 @@
+{"description":"Abebooks","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"e7f0ab07-e1c1-48a9-84ce-f30fcec3664f"}
+{"description":"Adobe","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"8e0c0a18-43c4-48b8-a429-98cd4c548607"}
+{"description":"Amazon","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"bcbc5eae-b949-42c2-8b78-582444078c50"}
+{"description":"Apple","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"73a24ef5-6887-477b-9f4e-9f55ba25c05a"}
+{"description":"Atlassian","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"93598dd4-b483-45fb-abeb-bc0f847fcd55"}
+{"description":"Księgarnia Boni Libri","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"617287e6-c670-4819-b6a0-9ba5f4fe03c2"}
+{"description":"UXPin","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"GDPR","status":"pending","uuid":"4bf67c7e-3182-4195-9572-9f47896155c2"}
+{"description":"CS + KREME, Pussywhistle Tea","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"ce81a9b4-5086-4368-bc1b-71fe308d9812"}
+{"description":"Franco Battiato, No Time No Space","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"a46d0dac-3e2a-490c-a209-4ee42cdc1bc9"}
+{"description":"Frida, I See Red","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"aec22f74-d1a7-4a46-ab91-ec1ab9f8c3b2"}
+{"description":"Jaques Dutronc, Hippie hippie hourrah","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"1aee7b5a-8d62-45fb-8cad-db50e1995192"}
+{"description":"Jim Rafferty, I see red","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"00f1dc5a-6bf3-4b61-a3f6-66d2c06839c0"}
+{"description":"Musci-Venosta, Lullabies...Mother Sings...Father Plays...","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"1d9c5a3f-5e8e-41dd-b675-59954f62db5a"}
+{"description":"Paul Hillier and Estonian Philharmonic Chamber Choir, On Leaving (1999)","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"NTS","status":"pending","uuid":"7af9442c-4be1-4d59-9c79-fe286a517247"}
+{"description":"Migrate from Google Photos","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"data","status":"pending","uuid":"7caac6a7-aa6c-414f-9c6c-ced45cd97b3a"}
+{"description":"Proton inbox cleanup","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"data","status":"pending","uuid":"66218284-03aa-4679-8082-34298837578a"}
+{"description":"Rozliczenie PIT","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"firma","status":"pending","uuid":"2a79084d-9c9a-4479-b74f-55bcf4cdf054"}
+{"description":"Migrate to vim:plug","entry":"20210418T153827Z","modified":"20210418T153827Z","project":"machine","status":"pending","uuid":"e35c2862-b160-4667-a198-abf6710db797"}
